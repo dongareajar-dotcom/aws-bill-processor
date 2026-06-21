@@ -3,8 +3,9 @@
 Serverless AWS Bill Processing System using Lambda, S3, Textract, DynamoDB, and EventBridge for automated bill data extraction and storage.
 
 ## Architecture
+<img width="1536" height="1024" alt="ChatGPT Image Jun 21, 2026, 12_20_15 PM" src="https://github.com/user-attachments/assets/69767c7b-e733-4ef1-bce5-25aa90bbcca4" />
 
-![Architecture](architecture.png)
+
 
 ## AWS Services Used
 
@@ -28,7 +29,7 @@ Serverless AWS Bill Processing System using Lambda, S3, Textract, DynamoDB, and 
 
 ### Lambda Function
 
-![Lambda](lambda-function.png)
+
 
 ### S3 Bucket
 
