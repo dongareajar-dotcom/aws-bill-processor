@@ -35,6 +35,8 @@ Serverless AWS Bill Processing System using Lambda, S3, Textract, DynamoDB, and 
 ### S3 Bucket
 <img width="1596" height="835" alt="Screenshot 2026-06-08 145701" src="https://github.com/user-attachments/assets/8cd0f576-fe59-4dc9-b68a-292b06d45668" />
 
+### API Gateway
+<img width="1919" height="861" alt="Screenshot 2026-06-04 103817 (1)" src="https://github.com/user-attachments/assets/6cc3e83b-1579-4869-a8e7-1aaa707d945f" />
 
 
 ### DynamoDB Table
