@@ -28,20 +28,18 @@ Serverless AWS Bill Processing System using Lambda, S3, Textract, DynamoDB, and 
 ## Screenshots
 
 ### Lambda Function
+<img width="1571" height="828" alt="Screenshot 2026-06-08 145617" src="https://github.com/user-attachments/assets/4f0f84e5-c0d9-4850-9ced-c49754c03406" />
 
 
 
 ### S3 Bucket
+<img width="1596" height="835" alt="Screenshot 2026-06-08 145701" src="https://github.com/user-attachments/assets/8cd0f576-fe59-4dc9-b68a-292b06d45668" />
 
-![S3](s3-bucket.png)
+
 
 ### DynamoDB Table
+<img width="1576" height="841" alt="Screenshot 2026-06-08 145804" src="https://github.com/user-attachments/assets/73725348-9aab-4afe-a0d3-09e97d4f910e" />
 
-![DynamoDB](dynamodb-table.png)
-
-### EventBridge Rule
-
-![EventBridge](eventbridge-rule.png)
 
 ## Features
 
